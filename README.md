@@ -1,5 +1,4 @@
-GIT test
-
+GIT test all the commands:
  392  git status
   393  git add --all
   394  git status
